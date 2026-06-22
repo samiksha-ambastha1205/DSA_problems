@@ -53,3 +53,15 @@
 - split_array_three_sum.java - split an array into three contiguous subarrays with equal sum.
 - split_array_three_sum_total.java - Find two indices that split the array into 3 contiguous subarrays of equal sum.
 - subarray_less_than_k.java - Counts the number of contiguous subarrays whose product is less than a given value k.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
