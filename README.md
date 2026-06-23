@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,12 +77,34 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
