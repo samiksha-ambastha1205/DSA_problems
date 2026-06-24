@@ -72,6 +72,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
