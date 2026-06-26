@@ -73,6 +73,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
@@ -92,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
