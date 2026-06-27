@@ -64,6 +64,7 @@
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
+| [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,4 +157,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
