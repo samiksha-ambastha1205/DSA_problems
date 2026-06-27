@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0460-lfu-cache) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 ## Queue
