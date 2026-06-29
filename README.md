@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -139,6 +140,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 ## Monotonic Stack
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
