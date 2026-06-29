@@ -103,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0460-lfu-cache) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 ## Monotonic Stack
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
