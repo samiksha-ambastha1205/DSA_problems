@@ -62,6 +62,7 @@
 | [0014-longest-common-prefix](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -238,4 +239,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
