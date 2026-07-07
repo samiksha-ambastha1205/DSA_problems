@@ -61,6 +61,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -233,4 +234,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
