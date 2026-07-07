@@ -66,10 +66,12 @@
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
