@@ -73,6 +73,7 @@
 | [0216-combination-sum-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
@@ -89,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Design
