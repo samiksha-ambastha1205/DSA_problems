@@ -65,6 +65,7 @@
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
@@ -130,6 +131,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
