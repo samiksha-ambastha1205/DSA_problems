@@ -68,6 +68,7 @@
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
