@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
@@ -117,6 +118,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
