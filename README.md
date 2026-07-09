@@ -72,6 +72,7 @@
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -131,6 +133,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0460-lfu-cache) |
