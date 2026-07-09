@@ -64,6 +64,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
@@ -105,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +129,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
@@ -178,6 +181,7 @@
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
