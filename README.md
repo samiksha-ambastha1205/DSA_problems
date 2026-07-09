@@ -71,6 +71,7 @@
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
@@ -268,4 +269,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
