@@ -1,29 +1,48 @@
 class Solution {
-
     public int[] topKFrequent(int[] nums, int k) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // Step 1: Count frequency of each number
+        Map<Integer, Integer> map = new HashMap<>();
 
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<int[]> pq =
-                new PriorityQueue<>((a, b) -> a[1] - b[1]);
+        // Step 2: Create buckets
+        // bucket[i] stores all numbers that appear i times
+        List<Integer>[] bucket = new ArrayList[nums.length + 1];
 
+        // Step 3: Put each number into its frequency bucket
         for (int key : map.keySet()) {
 
-            pq.offer(new int[]{key, map.get(key)});
+            int freq = map.get(key);
 
-            if (pq.size() > k) {
-                pq.poll();
+            if (bucket[freq] == null) {
+                bucket[freq] = new ArrayList<>();
             }
+
+            bucket[freq].add(key);
         }
 
+        // Step 4: Collect top k frequent elements
         int[] ans = new int[k];
+        int index = 0;
 
-        for (int i = k - 1; i >= 0; i--) {
-            ans[i] = pq.poll()[0];
+        // Traverse from highest frequency to lowest
+        for (int i = bucket.length - 1; i >= 0 && index < k; i--) {
+
+            if (bucket[i] != null) {
+
+                for (int num : bucket[i]) {
+
+                    ans[index] = num;
+                    index++;
+
+                    if (index == k) {
+                        break;
+                    }
+                }
+            }
         }
 
         return ans;
