@@ -1,37 +1,44 @@
 class Solution {
     public boolean exist(char[][] board, String word) 
     {
-        int row = board.length;
-        int col = board[0].length;
+        int m = board.length;
+        int n = board[0].length;
 
-        for(int i =0;i<row;i++)
+        for(int i =0;i<m;i++)
         {
-            for(int j =0;j<col;j++)
+            for(int j =0;j<n;j++)
             {
-                if(dfs(board,word,i,j,0))
+                if(backtrack(board,word, i , j , 0))
                 return true;
             }
+
         }
         return false;
     }
-    private boolean dfs(char[][]board,String word , int row , int col , int index)
+    public boolean backtrack(char[][] board, String word, int row , int col,int index)
     {
-        if(index==word.length())
+      //we found the word
+      if(index==word.length())
+      {
         return true;
-        
-        if(row<0||row>=board.length||col<0||col>=board[0].length)
+      }
+      //we will start and check all directions 
+      if(row<0||col>=board[0].length||row>=board.length||col<0)
+      {
         return false;
+      }
+      //wrong character
+      if(board[row][col]!=word.charAt(index))
+      return false;
+      //mark as visited
+      char temp = board[row][col];
+      board[row][col]='#';
 
-        if(board[row][col]!=word.charAt(index))
-        return false;
-       //mark as visited
-       char temp = board[row][col];
-       board[row][col]='*';
-        boolean found = dfs(board,word,row,col+1,index+1)||dfs(board,word,row,col-1,index+1)||dfs(board,word,row+1,col,index+1)||dfs(board,word,row-1,col,index+1);
+      boolean found = backtrack(board,word,row-1,col,index+1)||backtrack(board,word,row+1,col,index+1)||backtrack(board,word,row,col+1,index+1)||backtrack(board,word,row,col-1,index+1);
 
-        board[row][col]=temp;
-        return found;
-
+      //undo
+      board[row][col]=temp;
+      return found;
 
     }
 }
