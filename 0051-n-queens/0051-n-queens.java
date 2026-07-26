@@ -1,68 +1,94 @@
-import java.util.*;
-
 class Solution {
 
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<>();
 
-        boolean[] cols = new boolean[n];
-        boolean[] diag1 = new boolean[2 * n]; 
-        boolean[] diag2 = new boolean[2 * n];
+        List<List<String>> result = new ArrayList<>();
 
         char[][] board = new char[n][n];
 
-        for (char[] row : board) {
-            Arrays.fill(row, '.');
+        // Fill board with '.'
+        for(int i = 0; i < n; i++)
+        {
+            for(int j = 0; j < n; j++)
+            {
+                board[i][j] = '.';
+            }
         }
 
-        backtrack(0, n, board, cols, diag1, diag2, result);
+        backtrack(board, 0, result);
 
         return result;
     }
 
-    private void backtrack(int row, int n,
-                           char[][] board,
-                           boolean[] cols,
-                           boolean[] diag1,
-                           boolean[] diag2,
-                           List<List<String>> result) {
+    public void backtrack(char[][] board, int row,
+                          List<List<String>> result)
+    {
+        // All queens placed
+        if(row == board.length)
+        {
+            List<String> solution = new ArrayList<>();
 
-        // base case: all rows filled
-        if (row == n) {
-            result.add(construct(board));
+            for(int i = 0; i < board.length; i++)
+            {
+                solution.add(new String(board[i]));
+            }
+
+            result.add(solution);
             return;
         }
 
-        for (int col = 0; col < n; col++) {
+        // Try every column in this row
+        for(int col = 0; col < board.length; col++)
+        {
+            if(isSafe(board, row, col))
+            {
+                // Choose
+                board[row][col] = 'Q';
 
-            int d1 = row - col + n;
-            int d2 = row + col;
+                // Go to next row
+                backtrack(board, row + 1, result);
 
-            // check if safe
-            if (cols[col] || diag1[d1] || diag2[d2]) continue;
-
-            // place queen
-            board[row][col] = 'Q';
-            cols[col] = true;
-            diag1[d1] = true;
-            diag2[d2] = true;
-
-            // explore
-            backtrack(row + 1, n, board, cols, diag1, diag2, result);
-
-            // undo (backtrack)
-            board[row][col] = '.';
-            cols[col] = false;
-            diag1[d1] = false;
-            diag2[d2] = false;
+                // Undo
+                board[row][col] = '.';
+            }
         }
     }
 
-    private List<String> construct(char[][] board) {
-        List<String> res = new ArrayList<>();
-        for (char[] row : board) {
-            res.add(new String(row));
+    public boolean isSafe(char[][] board, int row, int col)
+    {
+        // Check column
+        for(int i = 0; i < row; i++)
+        {
+            if(board[i][col] == 'Q')
+                return false;
         }
-        return res;
+
+        // Check upper-left diagonal
+        int i = row - 1;
+        int j = col - 1;
+
+        while(i >= 0 && j >= 0)
+        {
+            if(board[i][j] == 'Q')
+                return false;
+
+            i--;
+            j--;
+        }
+
+        // Check upper-right diagonal
+        i = row - 1;
+        j = col + 1;
+
+        while(i >= 0 && j < board.length)
+        {
+            if(board[i][j] == 'Q')
+                return false;
+
+            i--;
+            j++;
+        }
+
+        return true;
     }
 }
