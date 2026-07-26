@@ -1,40 +1,45 @@
 class Solution {
     public List<List<String>> partition(String s) 
     {
-      List<List<String>> ans = new ArrayList<>();
-      solve(0,s,new ArrayList<>(),ans);
-      return ans;
+        List<List<String>> result = new ArrayList<>();
+        backtrack(s,0,new ArrayList<>(),result);
+        return result; 
     }
-    private void solve(int index, String s,List<String> subset, List<List<String>> ans)
+    public void backtrack(String s , int start , List<String> current, List<List<String>> result)
     {
-        if(index==s.length())
+        //we reached end 
+        if(start==s.length())
         {
-            ans.add(new ArrayList<>(subset));
+            result.add(new ArrayList<>(current));
             return;
         }
-        for(int end = index; end<s.length(); end++)
+        //try every possible substrings
+        for(int end = start;end<s.length();end++)
         {
-            String part = s.substring(index,end+1);
-            if(ispalindrome(part))
+            String subpart = s.substring(start,end+1);
+            //choose only those substring that is palindrome 
+            if(isPalindrome(subpart))
             {
-                subset.add(part);
-                solve(end+1,s,subset,ans);
-                subset.remove(subset.size()-1);
+                //add into current 
+                current.add(subpart);
+                //go deeper
+                backtrack(s,end+1,current,result);
+                //backtrack
+                current.remove(current.size()-1);
             }
         }
     }
-    private boolean ispalindrome(String s)
+    public boolean isPalindrome (String s)
     {
-        int end = s.length()-1;
-        int start=0;
-        while(s.charAt(start)==s.charAt(end)&&start!=s.length()-1)
+        int n = s.length();
+        int i =0;
+        while(i!=n/2)
         {
-            start++;
-            end--;
+            if(s.charAt(i)!=s.charAt(n-i-1))
+
+            return false;
+            i++;
         }
-        if(start==s.length()-1)
         return true;
-        else
-        return false;
     }
 }
