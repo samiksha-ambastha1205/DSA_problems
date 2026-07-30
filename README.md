@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
@@ -134,6 +135,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
@@ -228,6 +230,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0051-n-queens) |
