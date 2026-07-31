@@ -289,6 +289,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
 | ------- |
