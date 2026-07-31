@@ -76,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
+| [0260-single-number-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
