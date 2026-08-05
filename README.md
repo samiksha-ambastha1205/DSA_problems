@@ -299,4 +299,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
