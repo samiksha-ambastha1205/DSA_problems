@@ -80,6 +80,7 @@
 | [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
@@ -175,6 +176,7 @@
 | [0155-min-stack](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -206,6 +208,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
