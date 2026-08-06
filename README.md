@@ -65,6 +65,7 @@
 | [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0283-move-zeroes) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -206,6 +209,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
