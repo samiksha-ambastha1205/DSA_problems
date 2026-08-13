@@ -84,6 +84,7 @@
 | [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -181,6 +182,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Queue
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
