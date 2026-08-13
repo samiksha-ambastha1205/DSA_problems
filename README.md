@@ -321,4 +321,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
