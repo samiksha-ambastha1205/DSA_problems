@@ -149,6 +149,7 @@
 | [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Monotonic Stack
@@ -234,6 +236,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
