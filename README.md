@@ -86,6 +86,7 @@
 | [0704-binary-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -153,6 +154,7 @@
 | [0460-lfu-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
