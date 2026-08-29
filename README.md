@@ -89,6 +89,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
@@ -246,6 +247,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bracket Sequences
 |  |
 | ------- |
