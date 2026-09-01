@@ -149,6 +149,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
