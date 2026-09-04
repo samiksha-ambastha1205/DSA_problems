@@ -194,6 +194,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -222,6 +223,7 @@
 | [0165-compare-version-numbers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -278,6 +280,7 @@
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -355,5 +359,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
