@@ -74,6 +74,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0238-product-of-array-except-self) |
@@ -362,6 +363,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
