@@ -85,6 +85,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -351,4 +352,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
