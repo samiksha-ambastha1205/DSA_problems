@@ -69,6 +69,7 @@
 | [0049-group-anagrams](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0090-subsets-ii) |
@@ -278,6 +279,7 @@
 | [0005-longest-palindromic-substring](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
@@ -359,6 +361,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/samiksha-ambastha1205/DSA_problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
